@@ -16,6 +16,8 @@ In order to run this project locally, simply fork and clone the repository or do
 
 - Open the project in your prefered code editor.
 - Go to terminal -> New terminal (If you are using VS code)
+- Split your terminal into two (run the client on one terminal and the server on the other terminal)
+
 
 ```
 $ cd client
@@ -23,6 +25,19 @@ $ npm install (to install client-side dependencies)
 $ npx start -c  (to start the application - cleaning Cache Memory)
 NODE VERSION: 19.2.0
 
+```
+In the second terminal
+
+- cd server and Set environment variables in .env
+- Create your mongoDB connection url, which you'll use as your MONGO_URL
+- Supply the following credentials
+
+```
+#  --- .env  ---
+
+MONGO_URL = 'mongodb://0.0.0.0:27017/blogcrud01' -- YOUR DATABASE NAME
+PORT = 3500
+JWT_ACCESS_TOKEN='Sergio'
 ```
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
 
