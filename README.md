@@ -79,9 +79,8 @@ This project was created using the following technologies.
 
 ####  Frontend 
 
-- [React ]
- It is a framework developed by Facebook for creating spa under one common language, JavaScript.
-- [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
+- [React]() - It is a framework developed by Facebook for creating spa under one common language, JavaScript.
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
 - [react-navigation](https://reactnavigation.org/)) - To handle routing
 - [MongoDb](https://firebase.google.com/?gad_source=1&gclid=Cj0KCQiAoKeuBhCoARIsAB4Wxte5kKnjJzYp7DGbeK4wD-BU_i0Oke02VWuSac2NMBDt4wD48sqWYuUaAsBREALw_wcB&gclsrc=aw.ds&hl=es-419) - es una base de datos NoSQL que te permite almacenar y sincronizar datos entre tus usuarios en tiempo real.
 - [css3](https://styled-components.com/docs/basics) - Utilises tagged template literals to style your components
