@@ -1,4 +1,4 @@
-<h1 align ="center" > 🏆 FirebaseDBNotes  </h1>
+<h1 align ="center" > 📰 🗒 FirebaseDBNotes  </h1>
 <h1  align ="center"> 
 React JSX - MongoDB Auth and Db - EDIT/ADD/REMOVE notes </h1>
 <br>
